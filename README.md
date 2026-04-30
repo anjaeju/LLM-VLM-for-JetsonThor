@@ -4,7 +4,7 @@ LLM-for-JetsonThor is a practical repository for running, testing, and benchmark
 This project focuses on deploying local LLM inference servers using Docker-based environments such as vLLM and Ollama, with support for OpenAI-compatible API testing.
 
 <!-- UPDATE_TIME_START -->
-Last updated: 2026-04-30 00:00:00 KST
+Last updated: 2026-04-30 11:00:03 KST
 <!-- UPDATE_TIME_END -->
 
 ## Overview
