@@ -1,3 +1,4 @@
+```
 IMAGE=ghcr.io/nvidia-ai-iot/vllm:0.16.0-g15d76f74e-r38.2-arm64-sbsa-cu130-24.04 && \
 
 docker run --rm -it \
@@ -24,3 +25,4 @@ docker run --rm -it \
     --gpu-memory-utilization 0.9 \
     --kv-cache-dtype fp8 \
     --max-num-seqs 1
+```
