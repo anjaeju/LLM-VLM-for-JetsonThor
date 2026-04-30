@@ -1,6 +1,11 @@
 # LLM-for-JetsonThor
+
 LLM-for-JetsonThor is a practical repository for running, testing, and benchmarking Large Language Models (including multi-modal) on NVIDIA Jetson Thor.
 This project focuses on deploying local LLM inference servers using Docker-based environments such as vLLM and Ollama, with support for OpenAI-compatible API testing.
+
+<!-- UPDATE_TIME_START -->
+Last updated: 2026-04-30 00:00:00 KST
+<!-- UPDATE_TIME_END -->
 
 ## Overview
 This repository is designed for developers who want to run LLMs directly on Jetson Thor devices.
