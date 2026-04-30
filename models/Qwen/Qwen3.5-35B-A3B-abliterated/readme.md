@@ -1,3 +1,8 @@
+## 1. (Local hosting) Test Serving
+
+## 2. (Local hosting) Recommended Serving
+
+## 3. (Internal/Public hosting) Recommended Serving
 ```
 IMAGE=ghcr.io/nvidia-ai-iot/vllm:0.16.0-g15d76f74e-r38.2-arm64-sbsa-cu130-24.04 && \
 
