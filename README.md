@@ -19,15 +19,10 @@ Main goals:
 - Benchmark latency, throughput, and memory usage
 - Document practical troubleshooting steps for Jetson-based LLM serving
 
-## Target Environment
+## Listup
 
-- NVIDIA Jetson Thor
-- Ubuntu / JetPack-based environment
-- NVIDIA Container Runtime
-- Docker
-- CUDA-enabled LLM runtime
-- vLLM, Llama.cpp, and Ollama
-- Hugging Face models
+- Qwen series
+  - [Qwen 3.5] huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated
 
 ## Repository Structure (On-going)
 
