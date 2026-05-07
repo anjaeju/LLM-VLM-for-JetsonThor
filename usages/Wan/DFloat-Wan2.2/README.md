@@ -24,7 +24,7 @@
   - To change image, workspace, cache mounts, or GPU settings, remove the old container first.
   - Override MODEL, SERVED_MODEL_NAME, HOST, PORT, WORKSPACE, CONTAINER_NAME, or INSTALL_PACKAGES as needed.
 
-- Server
+- Server (workspace/Run-Dfloat-wan22-i2v.sh)
 ```
 IMAGE=ghcr.io/nvidia-ai-iot/vllm:0.16.0-g15d76f74e-r38.2-arm64-sbsa-cu130-24.04
 HOST="${HOST:-0.0.0.0}"
@@ -95,7 +95,7 @@ docker run -d \
 open_shell
 ```
 
-- Generation Scripts
+- Generation Script (workspace/run_dfloat_wan22.i2v.py)
 ```
 import time
 import torch
