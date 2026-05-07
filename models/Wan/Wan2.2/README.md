@@ -169,4 +169,5 @@ max_memory = torch.cuda.max_memory_allocated()
 print(f"Max memory: {max_memory / (1000 ** 3):.2f} GB")
 ```
 
-- the results:
+- the results : https://github.com/user-attachments/assets/f76b6fbe-2b8d-4f9d-9646-70d17253574d
+
