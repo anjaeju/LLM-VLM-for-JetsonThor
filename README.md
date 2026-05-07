@@ -20,6 +20,9 @@ Main goals:
 
 ## Listup
 
+- Wan series
+  - [DFloat-Wan2.2] DFloat11/Wan2.2-I2V-A14B-DF11
+
 - Qwen series
   - [Qwen 3.5] huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated
 
@@ -28,19 +31,13 @@ Main goals:
 ```text
 LLM-for-JetsonThor/
 ├── docker/
-├── models/
+├── usages/
 │   ├── Qwen/
-│   │   ├── vLLM/
-│   │   ├── Llama.cpp/
-│   │   ├── Ollama/
-│   │   ├── HuggingFace Serve/
-│   │   └── openai_inference /
-│   ├── SmolVLM/
-│   │   ├── vLLM/
-│   │   ├── Llama.cpp/
-│   │   ├── Ollama/
-│   │   ├── HuggingFace Serve/
-│   │   └── openai_inference /
+│   │   ├── Qwen3.6/
+│   │   └── ... /
+│   ├── Wan/
+│   │   ├── Wan2.2/
+│   │   └── ... /
 │   └── Others .../
 ├── docs/
 │   ├── setup.md

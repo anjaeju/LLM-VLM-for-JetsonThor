@@ -1,4 +1,4 @@
-## Docker-Based Model Serving for Dfloat WAN 2.2 (Image-2-Video)
+## Docker-Based Model Serving for DFloat WAN 2.2 (Image-2-Video)
 - Option 1: Pre-download and operate a Docker image within our system.
 - Option 2: Pull and operate the Docker image directly from nvidia-ai-iot.
 - NVIDIA official GitHub repository for edge devices: https://github.com/NVIDIA-AI-IOT
